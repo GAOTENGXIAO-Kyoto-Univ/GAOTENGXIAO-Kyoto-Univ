@@ -1,89 +1,61 @@
-<!-- GitHub Profile README Template -->
-<h1 align="center">Hi 👋, I'm Kejin Shang (ショウカキン)</h1>
-<h3 align="center">🎓 Researcher | 💻 Developer | 📊 Data Analyst</h3>
+# GAO TENGXIAO | 高 騰宵
 
-<p align="center">
-  <a href="https://github.com/gaotengxiao">
-    <img src="https://komarev.com/ghpvc/?username=gaotengxiao&label=Profile%20Views&color=0e75b6&style=flat" alt="gaotengxiao" />
-  </a>
-</p>
+> [View English version](./README.en.md)
+
+京都大学大学院情報学研究科の高騰宵です。  
+
+フロントエンドが大好きです。自分が作った作品の効果を見るたびに幸せを感じます。  
+最近はLangChainとRAGにはまり中
+---
+
+## ✔︎ 技術スタック・スキル
+
+- **言語**：Python / C / HTML / CSS / JavaScript / TypeScript / MySQL / PostgreSQL /
+- **環境・ツール**：Visual Studio Code / Cursor / GitHub /  Google Colab / PyCharm
+- **保有資格**：TOEIC 870点 / 日本語能力試験N1 177点
 
 ---
 
-### 🧠 About Me
-- 🇯🇵 4th-year student at **Ritsumeikan University (立命館大学 食マネジメント学部)**
-- 🏅 Recipient of the **Saionji Kinmochi Scholarship (西園寺記念奨学金)**
-- 📚 Conducting research on **Digital Financial Inclusion (DFI)** and its impact on household food consumption  
-- 💡 Passionate about **Econometrics, FinTech, and Software Engineering**
+## ✔︎ 主なインターン経験・開発経験
+
+### ○  インターン経験１：
+- 内容：チームビルディングにおいて発生する課題を抽出し、その解決策を考える。さらに、その解決策をアプリの形として具現化し、cursorを用いる開発を行う  
+- 使用技術：Reach / Next.JS / fastify / prisma
+
+### ○  インターン経験２：
+- 内容：就活サイト「レバテックルーキー」を対象に、既存データと仮想的に設定した四つのペルソナを分析する。そこからデータ上の課題を特定し、解決に向けた新機能を提案・開発するとともに、その効果の予測・分析も行う。
+- 使用技術：Reach / Next.JS / fastify / prisma / docker
+
+### ○  インターン経験３：
+- 内容：ユーザがアップロードした仕訳帳から損益計算書と貸借対照表を計算するシステムの開発
+- 使用技術：Reach / Next.JS / kotlin / MySQL / docker
+
+### ○  REACT管理システム
+- 内容：仮ペルソナはECサイトで店舗を営む経営者に設定し、これらの経営者が自社店舗が扱っている商品や従業員の情報を一元管理できるための管理システム
+- 使用技術：React / MongoDB / Node.js
+
 
 ---
 
-### 🔬 Current Research
-> *Digital Finance × Food Consumption × Regional Economics*
+## ✔︎ 興味・関心分野
 
-- Analyzing household-level consumption data from **CFPS / KHPS**
-- Employing **Staggered DID** and **Event-Study** frameworks
-- Exploring **DFI gap effects** on household Engel coefficients and consumption structure
-- Tools: `Stata`, `R`, `Python (pandas, statsmodels)`
+
 
 ---
 
-### 💻 Tech Stack
-| Category | Tools |
-|-----------|--------|
-| **Backend** | Kotlin (Spring Boot, jOOQ), Fastify, Node.js |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Database** | PostgreSQL, Prisma ORM |
-| **AI / Data** | LangChain, ChromaDB, Python, NumPy, Pandas |
-| **DevOps / Others** | Git, Docker, VSCode, IntelliJ IDEA |
+## ✔︎ 現在の活動
+
+
 
 ---
 
-### 🌱 What I'm Working On
-- Building a **PL/BS management system** (Kotlin × React × PostgreSQL)
-- Developing a **multi-modal AI chatbot** using LangChain + Chroma
-- Writing a research paper on **digital finance and food consumption**
+## ✔︎ 趣味・好きなこと
 
----
+- 映画鑑賞 
+- スポーツ(水泳、バドミントン等)
+- 旅行
+-->
 
-### 🧩 Featured Projects
-- 🧾 **Accounting System (Kotlin DDD)**  
-  → A domain-driven accounting backend with jOOQ & Spring Boot  
-  [🔗 View Repository](https://github.com/gaotengxiao/mini-loglass-for_student-main)
+## ✔︎ 連絡先
+- gtx2833474625@gmail.com
 
-- 🤖 **LangChain Multi-modal RAG Bot**  
-  → Integrates text + image input for interactive Q&A  
-  [🔗 View Repository](https://github.com/gaotengxiao/langchain-rag-demo)
-
-- 📊 **DFI & Engel Coefficient Study**  
-  → Econometric analysis of DFI’s effects on household food spending
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaotengxiao&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaotengxiao&layout=compact&theme=tokyonight" alt="langs"/>
-</p>
-
----
-
-### 🏆 Achievements & Certifications
-- 🥇 **Saionji Kinmochi Scholarship** — academic excellence & research performance  
-- 📘 **Econometrics with R & Stata** — data analysis & model evaluation  
-- 💼 **Internships:** Loglass / HRBrain / Mizuho / SoftBank
-
----
-
-### 💬 Connect With Me
-<p align="left">
-  <a href="mailto:gao.tengxiao.37m@st.kyoto-u.ac.jp"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail"></a>
-  <a href="https://qiita.com/your-id"><img src="https://img.shields.io/badge/Qiita-Blog-green?logo=qiita"></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin"></a>
-</p>
-
----
-
-<p align="center">
-  <i>“Bridging data, technology, and human behavior through digital finance.”</i>
-</p>
