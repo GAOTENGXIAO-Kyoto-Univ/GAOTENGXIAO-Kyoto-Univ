@@ -15,11 +15,11 @@
       
 ---
 
-## ✔︎ 技術スタック・スキル
+## ✔︎ スキルシート・語学力
 
-- **言語**：Python / C / HTML / CSS / JavaScript / TypeScript / MySQL / PostgreSQL / Kotlin(始めたばかり)
+- **スキル**：Python / C / HTML / CSS / JavaScript / TypeScript / MySQL / PostgreSQL / Kotlin(始めたばかり)
 - **環境・ツール**：Visual Studio Code / Cursor / GitHub /  Google Colab / PyCharm
-- **保有資格**：TOEIC 870点 / 日本語能力試験N1 177点
+- **語学力**：TOEIC 870点 / 日本語能力試験N1 177点 / 中国語(ネイティブ)
 
 ---
 
