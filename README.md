@@ -48,10 +48,10 @@
 
 ---
 ## ✔︎ 技術発信・技術ブログ
-Qiitaアカウント：https://qiita.com/GAOTENGXIAO  
-公開中のストックリスト：
-・React - https://qiita.com/GAOTENGXIAO/stocks/eb263b49ef7473a26c9a
-・LangChain - https://qiita.com/GAOTENGXIAO/stocks/bbfdd3b8be82552c7388
+Qiitaアカウント：https://qiita.com/GAOTENGXIAO   
+公開中のストックリスト：  
+・React - https://qiita.com/GAOTENGXIAO/stocks/eb263b49ef7473a26c9a  
+・LangChain - https://qiita.com/GAOTENGXIAO/stocks/bbfdd3b8be82552c7388  
 ・Prisma - https://qiita.com/GAOTENGXIAO/stocks/a7b9040b0c2b16e192dd
 現在も新しい内容を発信し続けています～
 
