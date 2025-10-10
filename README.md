@@ -40,10 +40,10 @@
 ### ○  REACT管理システム
 - 内容：仮ペルソナはECサイトで店舗を営む経営者に設定し、これらの経営者が自社店舗が扱っている商品や従業員の情報を一元管理できるための管理システム
 - 使用技術：React / MongoDB / Node.js
-- 紹介動画URL:
-  ・https://www.youtube.com/watch?v=QeMoylE1qgo
-  ・https://www.youtube.com/watch?v=QP6na7qwDQM
-  ・https://www.youtube.com/watch?v=iGKr2VFbu0s
+- 紹介動画URL:  
+  ・https://www.youtube.com/watch?v=QeMoylE1qgo  
+  ・https://www.youtube.com/watch?v=QP6na7qwDQM  
+  ・https://www.youtube.com/watch?v=iGKr2VFbu0s  
 
 
 ---
@@ -52,7 +52,7 @@ Qiitaアカウント：https://qiita.com/GAOTENGXIAO
 公開中のストックリスト：  
 ・React - https://qiita.com/GAOTENGXIAO/stocks/eb263b49ef7473a26c9a  
 ・LangChain - https://qiita.com/GAOTENGXIAO/stocks/bbfdd3b8be82552c7388  
-・Prisma - https://qiita.com/GAOTENGXIAO/stocks/a7b9040b0c2b16e192dd
+・Prisma - https://qiita.com/GAOTENGXIAO/stocks/a7b9040b0c2b16e192dd  
 現在も新しい内容を発信し続けています～
 
 ---
