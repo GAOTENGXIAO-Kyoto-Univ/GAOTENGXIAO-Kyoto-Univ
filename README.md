@@ -4,13 +4,14 @@
 
 京都大学大学院情報学研究科の高騰宵です。  
 
-フロントエンドが大好きです。自分が作った作品の効果を見るたびに幸せを感じます。  
-最近はLangChainとRAGにはまり中
+フロントエンドだけでなく、バックエンドやDBにも興味を持ち、様々な技術と言語を習得しています。    　
+最近はAIエージェントやRAG技術を活用したアプリ開発に挑戦しています。    
+技術で「人の意思決定を支える仕組み」を作ることを目標としています。  
 ---
 
 ## ✔︎ 技術スタック・スキル
 
-- **言語**：Python / C / HTML / CSS / JavaScript / TypeScript / MySQL / PostgreSQL /
+- **言語**：Python / C / HTML / CSS / JavaScript / TypeScript / MySQL / PostgreSQL / Kotlin(始めたばかり)
 - **環境・ツール**：Visual Studio Code / Cursor / GitHub /  Google Colab / PyCharm
 - **保有資格**：TOEIC 870点 / 日本語能力試験N1 177点
 
@@ -36,10 +37,24 @@
 
 
 ---
+## ✔︎ 技術発信・技術ブログ
+Qiitaアカウント：https://qiita.com/GAOTENGXIAO  
+公開中のストックリスト：
+・React - https://qiita.com/GAOTENGXIAO/stocks/eb263b49ef7473a26c9a
+・LangChain - https://qiita.com/GAOTENGXIAO/stocks/bbfdd3b8be82552c7388
+・Prisma - https://qiita.com/GAOTENGXIAO/stocks/a7b9040b0c2b16e192dd
+現在も新しい内容を発信し続けています～
 
-## ✔︎ 興味・関心分野
+---
 
-
+## ✔︎ 最近関心のある分野・それに対する取り組み
+私が現在関心を持っているテーマは、「大規模言語モデル（LLM）を活用したアプリケーション開発」と「生成AIの精度を高めるRAG（Retrieval-Augmented Generation）技術」です。生成AIが一般的に広がる中で、単なる文章生成にとどまらず、実データと結びついた信頼性の高い応答を実現する技術が今後の社会で重要になると感じています。  
+この分野を体系的に理解するために、LangChainの公式ドキュメントを読み、YouTubeのLangChain公式チャンネルで概念や実装例を学習しています。さらに、理解を深めるため、実践的なプロジェクトにも取り組みました。  
+今まで取り組んできた実戦項目：  
+1.PDF質問応答システム：PDFをアップロードし、ユーザーの質問に応じて文書内容を検索・要約して回答するシステム  
+2.多輪対話ロボット：ユーザーの発言履歴（コンテキスト）を保持し、自然な継続対話を実現する対話ロボット  
+3.データベース質問応答：自然言語でSQLデータベースへ問い合わせを行うシステム  
+4.エージェントによるツール呼び出し：モデルが自動で必要な検索ツールを選択・実行し、複雑なタスクを完遂するAIエージェント
 
 ---
 
