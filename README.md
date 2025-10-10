@@ -79,6 +79,7 @@ Qiitaアカウント：https://qiita.com/GAOTENGXIAO
 
 3. **データベース質問応答**  
    自然言語でSQLデータベースへ問い合わせを行うシステム  
+   紹介記事: https://qiita.com/GAOTENGXIAO/items/b807f1d10ed098fd7b04  
 
 4. **エージェントによるツール呼び出し**  
    モデルが自動で必要な検索ツールを選択・実行し、複雑なタスクを完遂するAIエージェント  
