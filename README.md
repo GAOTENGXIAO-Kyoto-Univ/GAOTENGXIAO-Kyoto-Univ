@@ -1,7 +1,5 @@
 # GAO TENGXIAO | 高 騰宵
 
-> [View English version](./README.en.md)
-
 京都大学大学院情報学研究科の高騰宵です。  
 
 高校時代に、CSSのanimationを使ってグルグル回る立方体を作りました。  
